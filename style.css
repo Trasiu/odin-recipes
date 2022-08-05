@@ -1,0 +1,33 @@
+ul, ol {
+    font-size: 25px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+li{
+    margin-bottom: 20px;
+}
+h1{
+    font-size: 72px;
+    font-weight: bold;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+h2{
+    font-size: 36px;
+    font-weight: bold;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+html {
+    text-align:center;
+}
+img{
+    width: 800px;
+    height: 400px;
+}
+h4{
+    font-size: 25px;
+    font-weight: 100;
+    margin-left: 300px;
+    margin-right: 300px;
+}
